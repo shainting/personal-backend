@@ -1,0 +1,14 @@
+{
+  "name": "back-end",
+  "version": "1.0.0",
+  "description": "後端api",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm run start"
+  },
+  "author": "Shain",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
